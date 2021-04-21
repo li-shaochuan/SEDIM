@@ -11,7 +11,7 @@ metabolic profiling in a comprehensive manner. Marker gene detection, gene ontol
 
 Authors
 
-Xiangtao Li and Ka-Chun Wong
+Xiangtao Li
 
 Department of Information Science and Technology, Northeast Normal University, Changchun, Jilin, China Department of Computer Science, City University of Hong Kong, Hong Kong
 
