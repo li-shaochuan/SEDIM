@@ -13,7 +13,7 @@ Authors
 
 Xiangtao Li
 
-Department of Information Science and Technology, Northeast Normal University, Changchun, Jilin, China Department of Computer Science, City University of Hong Kong, Hong Kong
+School of Artificial Intelligence, Jilin University, Jilin, China; Department of Computer science, City University of Hong Kong, Hong Kong SAR
 
 Contact
 
