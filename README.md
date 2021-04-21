@@ -17,4 +17,4 @@ Department of Information Science and Technology, Northeast Normal University, C
 
 Contact
 
-lixt314@nenu.edu.cn
+lixt314@jlu.edu.cn
