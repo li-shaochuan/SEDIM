@@ -1,4 +1,6 @@
-# SEDIM
+
+# Introduction
+## SEDIM
 High-throughput Molecular Data Imputation and Characterization with Surrogate-assisted Automatic Neural Architecture Search
 
 Single-cell RNA sequencing (scRNA-seq) technologies have been heavily developed to probe gene expression profiles at single-cell resolution. Deep imputation methods have been proposed to address the related computational challenges (e.g.
@@ -15,6 +17,25 @@ Xiangtao Li
 
 School of Artificial Intelligence, Jilin University, Jilin, China; Department of Computer science, City University of Hong Kong, Hong Kong SAR
 
-Contact
+
+# FAQ:
+## Is there any demo?
+
+By default, we provide the origin code. SEDIM is written in python 3.7, and tensorflow-gpu==1.14.
+
+## What is the methodology behind?
+
+The approach is sequentially divided into three components (Phases A, B and C). 
+In Phase A, a deep imputation model (DIM) is designed to learn patterns in scRNA-seq data for imputing dropout values;
+In Phase B, an automatic neural architecture search algorithm based on evolutionary optimization
+is proposed for automatically designing deep neural network evolution to impute gene valuesfrom
+scRNA-seq data; In Phase C, a surrogate-assisted evolutionary deep imputation model (SEDIM) is
+proposed to model the relationship between the hyperparameter configuration P and its performance
+f(P) to accelerate the fitness evaluation during the evolution
+## Where can I get data?
+
+By searching for the keyword Jurkat, 293T, Neuron9k, CD14+,
+CD56+, CD19+, CD34+, and CD4+ on the 10X Genomics platform including . GSE84133, GSE89232, GSE67602, can be downloaded from the public NCBI database
+# Contact
 
 lixt314@jlu.edu.cn
